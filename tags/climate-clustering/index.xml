@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Climate Clustering on Derek DeSantis</title>
+    <link>https://derekdesantis.github.io/tags/climate-clustering/</link>
+    <description>Recent content in Climate Clustering on Derek DeSantis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 10 Aug 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://derekdesantis.github.io/tags/climate-clustering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A wavelet based approach to climate biome clustering</title>
+      <link>https://derekdesantis.github.io/talk/climate-cluster/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://derekdesantis.github.io/talk/climate-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate Biome Clustering</title>
+      <link>https://derekdesantis.github.io/project/climate-clustering/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://derekdesantis.github.io/project/climate-clustering/</guid>
+      <description>The climate of the planet varies depending on location. Regions with similar climatology are refereed to as climate biomes. There are many factors that determine how we perceive the climate. For example, precipitation, temperature, flora and fauna are key ingredients in our delineation of biomes. Therefore classifying biomes is akin to understanding the homogeneity of climate and resources on a local scale. Therefore, it is not only important that we can classify climate biomes, but also their evolution with the changing climate.</description>
+    </item>
+    
+  </channel>
+</rss>

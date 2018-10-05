@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 2.4.0">
+  <meta name="generator" content="Hugo 0.49" />
+  <meta name="author" content="Derek DeSantis">
+
+  
+  
+  
+  
+    
+  
+  <meta name="description" content="This work focuses on operator algebras that arise from directed graphs and frame theory.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://derekdesantis.github.io/project/oa-from-frame/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="hsl(339, 90%, 68%)">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous">
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href=//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono>
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="https://derekdesantis.github.io/index.xml" type="application/rss+xml" title="Derek DeSantis">
+  <link rel="feed" href="https://derekdesantis.github.io/index.xml" type="application/rss+xml" title="Derek DeSantis">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://derekdesantis.github.io/project/oa-from-frame/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@DerekDeSantis">
+  <meta property="twitter:creator" content="@DerekDeSantis">
+  
+  <meta property="og:site_name" content="Derek DeSantis">
+  <meta property="og:url" content="https://derekdesantis.github.io/project/oa-from-frame/">
+  <meta property="og:title" content="Operator Algebras Modeling Dynamics of Frames | Derek DeSantis">
+  <meta property="og:description" content="This work focuses on operator algebras that arise from directed graphs and frame theory.">
+  
+  
+    
+  <meta property="og:image" content="https://derekdesantis.github.io/img/headers/short_exact.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2016-04-27T00:00:00-05:00">
+  
+  <meta property="article:modified_time" content="2016-04-27T00:00:00-05:00">
+  
+
+  
+
+  
+
+  <title>Operator Algebras Modeling Dynamics of Frames | Derek DeSantis</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="dark">
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Derek DeSantis</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#publications_selected">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
+
+  
+<div class="article-header">
+  
+  
+    <img src="/img/headers/short_exact.png" class="article-banner" itemprop="image">
+  
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="pub-title">
+      <h1 itemprop="name">Operator Algebras Modeling Dynamics of Frames</h1>
+      <span class="pub-authors" itemprop="author">&nbsp;</span>
+      <span class="float-right">
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Operator%20Algebras%20Modeling%20Dynamics%20of%20Frames&amp;url=https%3a%2f%2fderekdesantis.github.io%2fproject%2foa-from-frame%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fderekdesantis.github.io%2fproject%2foa-from-frame%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fderekdesantis.github.io%2fproject%2foa-from-frame%2f&amp;title=Operator%20Algebras%20Modeling%20Dynamics%20of%20Frames"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fderekdesantis.github.io%2fproject%2foa-from-frame%2f&amp;title=Operator%20Algebras%20Modeling%20Dynamics%20of%20Frames"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Operator%20Algebras%20Modeling%20Dynamics%20of%20Frames&amp;body=https%3a%2f%2fderekdesantis.github.io%2fproject%2foa-from-frame%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+      </span>
+    </div>
+
+    
+
+    <div class="article-style" itemprop="articleBody">
+      <p>For a Hilbert space $\mathscr{H}$, $y \in \mathscr{H}$ and  $T \in \mathscr{B}(\mathscr{H})$, the equation
+\begin{equation}
+T x = y
+\end{equation}
+has a solution whenever $T$ is left invertible.  For any left inverse $L$ of $T$, $x = L y$ is a solution.  More generally, if $T$ has closed range, $T$ has a <em>pseudo left inverse</em>. Concretely, if $T \in \mathscr{B}(\mathscr{H})$ has closed range, restricting to $\ker(T)^\perp$ we obtain a new operator that is left invertible. Picking a left inverse $L$ for $T\mid_{\ker(T)^\perp}$, we find that $x = L y$ is a solution.</p>
+
+<p>In most applications, there is a canonical choice for the left inverse $L$.  Generally, this is the <em>Moore-Penrose inverse</em>, denoted $T^\dagger$.  It is the unique left inverse such that $\ker(T^\dagger) = \mbox{ran}(T)^\perp$.  To construct $T^\dagger$, one considers $T$ mapping $\ker(T)^\perp$ to $\mbox{ran}(T)$.  From this perspective, $T$ is bijective, and thus boundedly invertible by the open mapping theorem. The unique inverse, once extended by zero, is $T^\dagger$. For instance, if $T$ is an isometry then $T^\dagger = T^*$, the adjoint of $T$.</p>
+
+<p>One subject where closed range operators are frequently used is <em>frame theory</em>. A sequence {$f_n$} in a Hilbert space $\mathscr{H}$ is said to be a <em>frame</em> if there exists constants $0&lt; A \leq B$ such that
+\begin{equation}
+A ||x||^2 \leq \sum_n | \langle x, f_n \rangle |^2 \leq B ||x||^2
+\end{equation}
+for all $x \in \mathscr{H}$.</p>
+
+<p>Associated to each Hilbert space frame {$f_n$} is a (canonical) dual frame {$g_n$}. Using this dual frame, one can reconstruct elements $f$ of the Hilbert space $\mathscr{H}$ in an analogous way to orthonormal basis:</p>
+
+<p>\begin{equation}
+f = \sum_{n \geq 1} \langle f, g_n \rangle f_n
+\end{equation}</p>
+
+<p>It is easy to see that orthonormal bases are frames, but not all frames need be orthogonal, norm one, or even contain a unique set of elements.  A frame does not enforce the rigidity of inner products that an orthonormal basis does - allowing for variation between individual frame elements (rather than just 0 or 1). The flexibility of the definition has engendered applications across signal processing and harmonic analysis. For instance, frames may be constructed for particular features of a problem that are precluded from orthogonal bases due to their requirement for linear independence.  Further, this extra redundancy helps to protect signals from degradation, ensuring that the effects of erasures are minimized.  The looseness of the structure allows one to construct the analog of frames for structures that don&rsquo;t necessarily come equipped with suitable generalization of an orthonormal basis.  Indeed, certain classes of Hilbert C*-Modules and Banach spaces posses frames.</p>
+
+<p>Many questions concerning Hilbert space frames are inexorably tied to questions of closed ranged and left invertible operators.  All frames for closed subspaces of a Hilbert $\mathscr{H}$ spaces arise as the application of a closed range operator $T$ on a frame for $\mathscr{H}$. Properties of frames, such as rigidity and perturbation results also depend on the analysis of closed range operators.  With this groundwork of closed ranged operators and frame theory laid, we now describe our interest in generating concrete operator algebras.</p>
+
+<p>A well-studied class of operator algebras are C<em>-algebras generated by partial isometries.    For example graph algebras, C</em>-algebras generated partial isometries subject to constraints of a directed graph, reside here.</p>
+
+<p>Representations of graph C*-algebras arising from a directed graph may be described as follows. Given a directed graph, choose a Hilbert space for each vertex of the graph (with suitable dimension depending on loops of the graph).  After direct summing each of these spaces together, we obtain a Hilbert space $\mathscr{H}$ where each vertex corresponds to an orthogonal summand of $\mathscr{H}$.  By choosing orthonormal sequences for each of these closed, orthogonal subspaces of $\mathscr{H}$, we then pick partial isometries that map one summand to another, subject to the Cuntz-Krieger relations.</p>
+
+<p>The partial isometric generators of concrete graph algebras preserve orthonormal basis (that is, up to the kernels of the partial isometries).  The representation of the graph C<em>-algebra can be viewed as encoding the dynamics of walks on the graph.  A natural extension of these concrete graph C</em>-algebras is one that encodes the dynamics of a frame.</p>
+
+<p>One arrives at a such an extension by replacing <em>partial isometries and their adjoints</em> with <em>closed ranged operators and their Moore-Penrose inverses</em>.  As discussed above, the closed range operators  preserve frame theoretic quantities.  In the isometric case, the Moore-Penrose inverse is the adjoint. Hence, such operator algebras reduce to the C<em>-algebraic case when the generators are isometric. Therefore, this class of operator algebras is the natural generalization of concrete graph C</em>-algebras that integrates frame theory.  This leads us to the following general program:</p>
+
+<p><em>Given a set of operators with closed range and their Moore-Penrose inverses construct the norm-closed algebra subject to the constraints of a directed graph. What is the structure of these algebras?</em></p>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/operator-algebras/">Operator Algebras</a>
+  
+  <a class="badge badge-light" href="/tags/operator-theory/">Operator Theory</a>
+  
+  <a class="badge badge-light" href="/tags/frame-theory/">Frame Theory</a>
+  
+</div>
+
+
+
+
+    
+    
+    
+
+    
+      
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Derek DeSantis</span>.
+  <a href="/publication/oa-gen-left-inf/" itemprop="name">Operator Algebras Generated by Left Invertibles</a>.
+  Preprint,
+  2018.
+  <p>
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1809.04700" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/1809.04700.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/oa-from-frame/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+      
+
+      
+      
+      
+      
+        <h2>Talks</h2>
+        
+          <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/Event">
+  <i class="fas fa-calendar-alt pub-icon" aria-hidden="true"></i>
+  <span itemprop="name"><a href="/talk/oa-left-inv-talk/">Operator Algebras Generated by Left Invertibles</a></span>
+  <div itemprop="startDate">
+    
+    Jun 1, 2018
+    
+      12:00 AM
+    
+  </div>
+  <div class="talk-metadata">
+    
+            GPOTS 2018
+    
+  </div>
+  <div class="talk-links">
+    
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/DeSantis_GPOTS_18_ve.pdf" target="_blank">
+  Slides
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/oa-from-frame/">
+    Project
+  </a>
+  
+
+
+
+  </div>
+</div>
+
+        
+      
+    
+
+  </div>
+</article>
+
+
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2018 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        CommonHTML: { linebreaks: { automatic: true } },
+        tex2jax: { inlineMath: [ ['$', '$'], ['\\(','\\)'] ], displayMath: [ ['$$','$$'], ['\\[', '\\]'] ], processEscapes: false },
+        TeX: { noUndefined: { attributes: { mathcolor: 'red', mathbackground: '#FFEEEE', mathsize: '90%' } } },
+        messageStyle: 'none'
+      });
+    </script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "Search Results",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    <script src="/js/search.js"></script>
+    
+
+    
+    
+
+  </body>
+</html>
+
