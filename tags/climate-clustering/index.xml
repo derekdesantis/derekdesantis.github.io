@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 10 Aug 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 10 Aug 2018 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://derekdesantis.github.io/tags/climate-clustering/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>A wavelet based approach to climate biome clustering</title>
       <link>https://derekdesantis.github.io/talk/climate-cluster/</link>
-      <pubDate>Fri, 10 Aug 2018 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 -0600</pubDate>
       
       <guid>https://derekdesantis.github.io/talk/climate-cluster/</guid>
       <description></description>
@@ -24,10 +24,10 @@
     <item>
       <title>Climate Biome Clustering</title>
       <link>https://derekdesantis.github.io/project/climate-clustering/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://derekdesantis.github.io/project/climate-clustering/</guid>
-      <description>The climate of the planet varies depending on location. Regions with similar climatology are refereed to as climate biomes. There are many factors that determine how we perceive the climate. For example, precipitation, temperature, flora and fauna are key ingredients in our delineation of biomes. Therefore classifying biomes is akin to understanding the homogeneity of climate and resources on a local scale. Therefore, it is not only important that we can classify climate biomes, but also their evolution with the changing climate.</description>
+      <description>There are many factors that determine how we perceive and ultimately classify the climate into distinct regions, or biomes. For example, precipitation, temperature, flora and fauna are key ingredients in our delineation of biomes. Classifying biomes is akin to understanding the homogeneity of climate and resources on a local scale. It is not only important that we can classify climate biomes, but also their evolution with the changing climate. For emphasis, it is not possible to perform any meaningful environmental preservation without predetermined knowledge of what the environment is at a coarse scale.</description>
     </item>
     
   </channel>

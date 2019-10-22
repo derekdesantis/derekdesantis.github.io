@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://derekdesantis.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>2</title>
       <link>https://derekdesantis.github.io/publication_types/2/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 -0600</pubDate>
       
       <guid>https://derekdesantis.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>https://derekdesantis.github.io/publication_types/5/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://derekdesantis.github.io/publication_types/5/</guid>
       <description></description>
     </item>
     

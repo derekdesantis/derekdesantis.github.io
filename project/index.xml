@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://derekdesantis.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,19 +15,29 @@
     <item>
       <title>Climate Biome Clustering</title>
       <link>https://derekdesantis.github.io/project/climate-clustering/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://derekdesantis.github.io/project/climate-clustering/</guid>
-      <description>The climate of the planet varies depending on location. Regions with similar climatology are refereed to as climate biomes. There are many factors that determine how we perceive the climate. For example, precipitation, temperature, flora and fauna are key ingredients in our delineation of biomes. Therefore classifying biomes is akin to understanding the homogeneity of climate and resources on a local scale. Therefore, it is not only important that we can classify climate biomes, but also their evolution with the changing climate.</description>
+      <description>There are many factors that determine how we perceive and ultimately classify the climate into distinct regions, or biomes. For example, precipitation, temperature, flora and fauna are key ingredients in our delineation of biomes. Classifying biomes is akin to understanding the homogeneity of climate and resources on a local scale. It is not only important that we can classify climate biomes, but also their evolution with the changing climate. For emphasis, it is not possible to perform any meaningful environmental preservation without predetermined knowledge of what the environment is at a coarse scale.</description>
     </item>
     
     <item>
       <title>Operator Algebras Modeling Dynamics of Frames</title>
       <link>https://derekdesantis.github.io/project/oa-from-frame/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://derekdesantis.github.io/project/oa-from-frame/</guid>
       <description>For a Hilbert space $\mathscr{H}$, $y \in \mathscr{H}$ and $T \in \mathscr{B}(\mathscr{H})$, the equation \begin{equation} T x = y \end{equation} has a solution whenever $T$ is left invertible. For any left inverse $L$ of $T$, $x = L y$ is a solution. More generally, if $T$ has closed range, $T$ has a pseudo left inverse. Concretely, if $T \in \mathscr{B}(\mathscr{H})$ has closed range, restricting to $\ker(T)^\perp$ we obtain a new operator that is left invertible.</description>
+    </item>
+    
+    <item>
+      <title>Theory of Tensor Factorizations</title>
+      <link>https://derekdesantis.github.io/project/tensor-factor-theory/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://derekdesantis.github.io/project/tensor-factor-theory/</guid>
+      <description>Data measured from a high-order complex system can be difficult to analyze. A convenient tool to store such data is in the form of a tensor, or d-way array. Each entry of the array describes the value obtained across the d independent parameters. Often, the dependencies between the indices is not clear, making interpretation of the data a demanding task.
+Most naturally occurring datasets are formed by directly observing and measuring quantities.</description>
     </item>
     
   </channel>
