@@ -21,14 +21,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Climate Biome Clustering</title>
-      <link>https://derekdesantis.github.io/project/climate-clustering/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://derekdesantis.github.io/project/climate-clustering/</guid>
-      <description>There are many factors that determine how we perceive and ultimately classify the climate into distinct regions, or biomes. For example, precipitation, temperature, flora and fauna are key ingredients in our delineation of biomes. Classifying biomes is akin to understanding the homogeneity of climate and resources on a local scale. It is not only important that we can classify climate biomes, but also their evolution with the changing climate. For emphasis, it is not possible to perform any meaningful environmental preservation without predetermined knowledge of what the environment is at a coarse scale.</description>
-    </item>
-    
   </channel>
 </rss>

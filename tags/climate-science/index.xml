@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Climate Science on Derek DeSantis</title>
+    <link>https://derekdesantis.github.io/tags/climate-science/</link>
+    <description>Recent content in Climate Science on Derek DeSantis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://derekdesantis.github.io/tags/climate-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coarse-Grain Cluster Analysis of Tensors With Application to Climate Biome Identification</title>
+      <link>https://derekdesantis.github.io/talk/coarse-grain-clustering-coda/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://derekdesantis.github.io/talk/coarse-grain-clustering-coda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Safety with Applications to the Climate Sciences</title>
+      <link>https://derekdesantis.github.io/talk/coarse-grain-clustering-cnls/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://derekdesantis.github.io/talk/coarse-grain-clustering-cnls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coarse-Grain Cluster Analysis of Tensors With Application to Climate Biome Identification</title>
+      <link>https://derekdesantis.github.io/publication/cgc/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://derekdesantis.github.io/publication/cgc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiresolution Cluster Analysis—Addressing Trust in Climate Classification</title>
+      <link>https://derekdesantis.github.io/talk/coarse-grain-clustering/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://derekdesantis.github.io/talk/coarse-grain-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate Biome Clustering</title>
+      <link>https://derekdesantis.github.io/project/climate-clustering/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://derekdesantis.github.io/project/climate-clustering/</guid>
+      <description>There are many factors that determine how we perceive and ultimately classify the climate into distinct regions, or biomes. For example, precipitation, temperature, flora and fauna are key ingredients in our delineation of biomes. Classifying biomes is akin to understanding the homogeneity of climate and resources on a local scale. It is not only important that we can classify climate biomes, but also their evolution with the changing climate. For emphasis, it is not possible to perform any meaningful environmental preservation without predetermined knowledge of what the environment is at a coarse scale.</description>
+    </item>
+    
+  </channel>
+</rss>
