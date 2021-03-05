@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>https://derekdesantis.github.io/publication/unique_binary/</loc>
+      <lastmod>2020-12-22T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://derekdesantis.github.io/talk/oa-cosy/</loc>
+      <lastmod>2020-05-25T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://derekdesantis.github.io/talk/climate-cluster/</loc>
+      <lastmod>2020-03-05T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://derekdesantis.github.io/talk/coarse-grain-clustering-coda/</loc>
       <lastmod>2020-02-25T00:00:00-07:00</lastmod>
     </url>
@@ -84,22 +108,6 @@
     
     <url>
     
-      <loc>https://derekdesantis.github.io/talk/climate-cluster/</loc>
-      <lastmod>2018-08-10T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://derekdesantis.github.io/talk/oa-left-inv-talk/</loc>
-      <lastmod>2018-06-01T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://derekdesantis.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
@@ -140,6 +148,14 @@
     
     <url>
     
+      <loc>https://derekdesantis.github.io/project/tensor-factor-so/</loc>
+      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://derekdesantis.github.io/project/tensor-factor-theory/</loc>
       <lastmod>2016-04-27T00:00:00-06:00</lastmod>
     </url>
@@ -157,7 +173,7 @@
     <url>
     
       <loc>https://derekdesantis.github.io/publication_types/2/</loc>
-      <lastmod>2020-01-21T00:00:00-07:00</lastmod>
+      <lastmod>2020-12-22T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -183,7 +199,7 @@
     <url>
     
       <loc>https://derekdesantis.github.io/tags/climate-clustering/</loc>
-      <lastmod>2018-08-10T00:00:00-06:00</lastmod>
+      <lastmod>2020-03-05T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -218,6 +234,15 @@
     
     <url>
     
+      <loc>https://derekdesantis.github.io/tags/interpretable-ml/</loc>
+      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://derekdesantis.github.io/tags/machine-learning/</loc>
       <lastmod>2020-02-25T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -228,7 +253,7 @@
     <url>
     
       <loc>https://derekdesantis.github.io/tags/operator-algebras/</loc>
-      <lastmod>2019-03-13T00:00:00-06:00</lastmod>
+      <lastmod>2020-05-25T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -237,7 +262,7 @@
     <url>
     
       <loc>https://derekdesantis.github.io/tags/operator-theory/</loc>
-      <lastmod>2019-03-13T00:00:00-06:00</lastmod>
+      <lastmod>2020-05-25T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -264,6 +289,15 @@
     <url>
     
       <loc>https://derekdesantis.github.io/publication_types/</loc>
+      <lastmod>2020-12-22T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://derekdesantis.github.io/tags/robust-ml/</loc>
       <lastmod>2020-01-21T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -288,7 +322,7 @@
     <url>
     
       <loc>https://derekdesantis.github.io/tags/</loc>
-      <lastmod>2018-08-10T00:00:00-06:00</lastmod>
+      <lastmod>2020-03-05T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -297,7 +331,7 @@
     <url>
     
       <loc>https://derekdesantis.github.io/tags/tensor-factorizations/</loc>
-      <lastmod>2019-09-17T00:00:00-06:00</lastmod>
+      <lastmod>2020-12-22T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     

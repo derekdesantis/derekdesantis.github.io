@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Tensor Factorizations of Southern Ocean</title>
+      <link>https://derekdesantis.github.io/project/tensor-factor-so/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://derekdesantis.github.io/project/tensor-factor-so/</guid>
+      <description>Understanding the climate system is difficult given its dependence on a wide range of length and timescales. Analyzing Earth system model (ESM) data, such as that from the Energy Exascale Earth System Model (E3SM), is further complicated due to the complex interactions between different components of the Earth’s system model. Indeed, most of climate science focuses on single component analysis, e.g. ocean or sea ice. At present, ESMs are constructed to understand average statistics, such as total conservation of heat and moisture.</description>
+    </item>
+    
+    <item>
       <title>Theory of Tensor Factorizations</title>
       <link>https://derekdesantis.github.io/project/tensor-factor-theory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>

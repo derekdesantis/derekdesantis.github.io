@@ -57,5 +57,14 @@
       <description>There are many factors that determine how we perceive and ultimately classify the climate into distinct regions, or biomes. For example, precipitation, temperature, flora and fauna are key ingredients in our delineation of biomes. Classifying biomes is akin to understanding the homogeneity of climate and resources on a local scale. It is not only important that we can classify climate biomes, but also their evolution with the changing climate. For emphasis, it is not possible to perform any meaningful environmental preservation without predetermined knowledge of what the environment is at a coarse scale.</description>
     </item>
     
+    <item>
+      <title>Tensor Factorizations of Southern Ocean</title>
+      <link>https://derekdesantis.github.io/project/tensor-factor-so/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://derekdesantis.github.io/project/tensor-factor-so/</guid>
+      <description>Understanding the climate system is difficult given its dependence on a wide range of length and timescales. Analyzing Earth system model (ESM) data, such as that from the Energy Exascale Earth System Model (E3SM), is further complicated due to the complex interactions between different components of the Earth’s system model. Indeed, most of climate science focuses on single component analysis, e.g. ocean or sea ice. At present, ESMs are constructed to understand average statistics, such as total conservation of heat and moisture.</description>
+    </item>
+    
   </channel>
 </rss>
